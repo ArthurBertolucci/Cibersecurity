@@ -1,4 +1,6 @@
-# Desafio-1 Bootcamp-Cibersecurity DIO
+# Desafio-1 Bootcamp-Cibersecurity DIO - Brute Force
+### Este desafio teve como objetivo explorar técnicas de ataque por força bruta em ambientes controlados, utilizando ferramentas como Medusa para testar credenciais de acesso via FTP, HTTP e SMB. Foram realizadas simulações de conexão, enumeração de usuários e definição de parâmetros para ataques automatizados, com o intuito de compreender como essas abordagens funcionam na prática. Todo o processo foi conduzido em ambiente de laboratório, com finalidade exclusivamente educacional, conforme proposto no Bootcamp de Cibersegurança da DIO. O foco foi entender vulnerabilidades e fortalecer o conhecimento em testes de intrusão e análise de segurança.
+
 
 ## Testando a conexão e explorando o alvo.
 ![teste conexão](https://github.com/user-attachments/assets/b87acab1-31cb-4f6b-8fe8-b36991e834ca)
